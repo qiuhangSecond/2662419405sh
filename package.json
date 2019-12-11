@@ -1,0 +1,15 @@
+{
+  "name": "2662419405sh",
+  "version": "0.1.0",
+  "description": "测试一下npm上传包文件",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:2662419405/2662419405sh.git"
+  },
+  "keywords": [
+    "jQuery二次封装,页面常见效果"
+  ],
+  "author": "sunhang32",
+  "license": "ISC"
+}

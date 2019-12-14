@@ -1,2 +1,2 @@
-#!/usr/bin/env node
-console.log(sh)
+#!/usr/bin/env
+console.log(123sh)
